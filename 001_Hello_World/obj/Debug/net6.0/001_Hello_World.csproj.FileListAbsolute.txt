@@ -1,0 +1,15 @@
+D:\Программирование\Examples\001_Hello_World\bin\Debug\net6.0\001_Hello_World.exe
+D:\Программирование\Examples\001_Hello_World\bin\Debug\net6.0\001_Hello_World.deps.json
+D:\Программирование\Examples\001_Hello_World\bin\Debug\net6.0\001_Hello_World.runtimeconfig.json
+D:\Программирование\Examples\001_Hello_World\bin\Debug\net6.0\001_Hello_World.dll
+D:\Программирование\Examples\001_Hello_World\bin\Debug\net6.0\001_Hello_World.pdb
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.csproj.AssemblyReference.cache
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.AssemblyInfoInputs.cache
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.AssemblyInfo.cs
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.csproj.CoreCompileInputs.cache
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.dll
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\refint\001_Hello_World.dll
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.pdb
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\001_Hello_World.genruntimeconfig.cache
+D:\Программирование\Examples\001_Hello_World\obj\Debug\net6.0\ref\001_Hello_World.dll
